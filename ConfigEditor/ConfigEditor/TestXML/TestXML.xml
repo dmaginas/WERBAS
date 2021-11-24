@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+	<Servers>
+		<Server path="c:\program files (x86)\werbas\werbasweb\server">
+			<ConnectionString>Initial Catalog=WWFirmen;Data Source=.\WERBASWEB;</ConnectionString>
+		</Server>
+		<Server path="c:\program files (x86)\werbas\werbasweb\serverNightly">
+			<ConnectionString>Initial Catalog=WWFirmen_Nightly;Data Source=.\WERBASWEB;</ConnectionString>
+		</Server>
+	</Servers>
+	<Clients>
+		<Client path="c:\program files (x86)\werbas\werbasweb\client">
+			<TSClient>false</TSClient>
+		</Client>
+		<Client path="c:\program files (x86)\werbas\werbasweb\clientNightly">
+			<TSClient>false</TSClient>
+		</Client>
+	</Clients>
+</Config>
