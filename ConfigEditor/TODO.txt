@@ -1,0 +1,11 @@
+Restaufwand (Grob): 1 Tag
+
+TODO:
+- Dem Interface IConfigEditorXml noch Methoden hinzufügen zum Laden der Daten aus der XML-Datei und zum Speichern der XML-Datei
+- Dem Interface IConfigEditorXml eine Methode hinzufügen, zum Erstellen einer neuen Config.
+- Die UnitTests erweitern (gegen das Interface programmieren)
+- In der Klasse ConfigEditorXml natürlich die Methoden ausimplementieren.
+- Klassen für Server-Daten und Client-Daten hinzufügen
+- GUI anpassen, damit es die Server-Daten und Client-Daten anzeigt/editiert.
+
+
